@@ -2,7 +2,6 @@
 
 <div align="center">
 
-![GitHub repo size](https://img.shields.io/github/repo-size/akashdeekshi-sudo/Gym_and_Fitness_Dashboard?color=blue&style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-Data_Analysis_Expressions-orange?style=for-the-badge)
 ![Excel ETL](https://img.shields.io/badge/ETL-Power_Query-green?style=for-the-badge&logo=microsoftexcel&logoColor=white)
