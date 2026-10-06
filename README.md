@@ -336,9 +336,3 @@ Gym_and_Fitness_Dashboard/
 Special thanks to the faculty, reviewers, and technical staff at the Department of Computer Science and Engineering for their continuous feedback and guidance throughout this project.
 
 ---
-
-<div align="center">
-
-⭐ **If you find this project informative or helpful, please consider giving this repository a star!** ⭐
-
-</div>
