@@ -18,10 +18,6 @@
 
 </div>
 
-<p align="center">
-  <img src="assets/gym_hero_banner.jpg" alt="Gym & Fitness Center Modern Facility" width="100%" style="border-radius: 10px; max-height: 380px; object-fit: cover;" />
-</p>
-
 ---
 
 ## 📑 Table of Contents
